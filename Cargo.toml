@@ -5,5 +5,3 @@ authors = ["Muhammad Saqib Hussain <saqib9217@live.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
